@@ -20,7 +20,7 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="https://linkto-mev1-0a208942f7c4.herokuapp.com/assets/info4.jpeg"
+        src="https://linkto-mev1.onrender.com/assets/info4.jpeg"
         style={{ borderRadius: '0.75rem', margin: '0.75rem 0' }}
       />
       <FlexBetween>
